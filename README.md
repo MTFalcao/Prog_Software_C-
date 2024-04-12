@@ -1,9 +1,7 @@
-# HTML CSS JS
+# Programação software basico em C++
 
-### <p align="left">Espaço reservado aos códigos feitos na disciplina de HTML CSS JS </p>
+### <p align="left">Espaço reservado aos códigos feitos na disciplina de Programação software basico em C++</p>
 
  Aluno: Matheus Maciel Pereira Falcão
- Matricula: 202212017011
- 
- ###### Disciplina realizada no segundo semestre de 2022.
 
+ Matricula: 202212017011
