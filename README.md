@@ -1,4 +1,4 @@
-# Programação software basico em C++
+# HTML CSS JS
 
 ### <p align="left">Espaço reservado aos códigos feitos na disciplina de HTML CSS JS </p>
 
